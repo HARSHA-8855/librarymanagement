@@ -1,5 +1,5 @@
 # Library Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Harsha%20Vardhan-red)
 ---
 ## screenshots
 ### Homepage
